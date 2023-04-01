@@ -1,0 +1,15 @@
+C:\Users\sinth\Downloads\TestingGame\TypingGame\bin\Debug\net7.0\TypingGame.exe
+C:\Users\sinth\Downloads\TestingGame\TypingGame\bin\Debug\net7.0\TypingGame.deps.json
+C:\Users\sinth\Downloads\TestingGame\TypingGame\bin\Debug\net7.0\TypingGame.runtimeconfig.json
+C:\Users\sinth\Downloads\TestingGame\TypingGame\bin\Debug\net7.0\TypingGame.dll
+C:\Users\sinth\Downloads\TestingGame\TypingGame\bin\Debug\net7.0\TypingGame.pdb
+C:\Users\sinth\Downloads\TestingGame\TypingGame\obj\Debug\net7.0\TypingGame.csproj.AssemblyReference.cache
+C:\Users\sinth\Downloads\TestingGame\TypingGame\obj\Debug\net7.0\TypingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinth\Downloads\TestingGame\TypingGame\obj\Debug\net7.0\TypingGame.AssemblyInfoInputs.cache
+C:\Users\sinth\Downloads\TestingGame\TypingGame\obj\Debug\net7.0\TypingGame.AssemblyInfo.cs
+C:\Users\sinth\Downloads\TestingGame\TypingGame\obj\Debug\net7.0\TypingGame.csproj.CoreCompileInputs.cache
+C:\Users\sinth\Downloads\TestingGame\TypingGame\obj\Debug\net7.0\TypingGame.dll
+C:\Users\sinth\Downloads\TestingGame\TypingGame\obj\Debug\net7.0\refint\TypingGame.dll
+C:\Users\sinth\Downloads\TestingGame\TypingGame\obj\Debug\net7.0\TypingGame.pdb
+C:\Users\sinth\Downloads\TestingGame\TypingGame\obj\Debug\net7.0\TypingGame.genruntimeconfig.cache
+C:\Users\sinth\Downloads\TestingGame\TypingGame\obj\Debug\net7.0\ref\TypingGame.dll
